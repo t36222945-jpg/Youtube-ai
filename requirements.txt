@@ -1,1 +1,0 @@
-streamlit==1.28.1\ngoogle-api-python-client==2.104.0\nplotly==5.18.0\npandas==2.1.3\nnumpy==1.26.2\npython-dotenv==1.0.0\nopenai==1.3.9\nnltk==3.8.1\ntextblob==0.17.1\nrequests==2.31.0\n
