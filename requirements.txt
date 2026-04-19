@@ -1,0 +1,10 @@
+streamlit
+google-api-python-client
+plotly
+pandas
+numpy
+python-dotenv
+langchain
+openai
+nltk
+textblob
